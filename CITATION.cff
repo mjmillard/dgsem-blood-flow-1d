@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the thesis."
+title: "dgsem-blood-flow-1d: code for an energy-stable DGSEM for one-dimensional blood flow"
+authors:
+  - family-names: Millard
+    given-names: Michael J.
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "An Energy-Stable Discontinuous Galerkin Spectral Element Method for One-Dimensional Blood Flow"
+  authors:
+    - family-names: Millard
+      given-names: Michael J.
+  thesis-type: "M.S. thesis"
+  institution:
+    name: "New Mexico Institute of Mining and Technology"
+  year: 2026
